@@ -167,24 +167,23 @@
         "2026-08-13": 1,
         "2026-08-14": 4,
         "2026-08-15": 6,
-        "2026-08-16": 5
+        "2026-08-16": 6
       },
       "fetchedThrough": "2026-08-16",
       "profile": {
         "iconId": 29,
-        "level": 225
+        "level": 226
       },
       "puuid": "6YOLYtQhh8qL7IhWxBrshgLnz-yhecQpdQN8uyByz3fBaNl5v-_q_ACRONIpe2ZZf8abF1qxeeisBA",
       "rank": {
         "division": "IV",
         "losses": 274,
-        "lp": 38,
+        "lp": 58,
         "queue": "solo",
         "tier": "PLATINUM",
-        "wins": 285
+        "wins": 286
       },
       "roles": {
-        "EUW1_7948554831": "JUNGLE",
         "EUW1_7948585342": "JUNGLE",
         "EUW1_7948646495": "JUNGLE",
         "EUW1_7948752875": "JUNGLE",
@@ -203,7 +202,8 @@
         "EUW1_7952140069": "MIDDLE",
         "EUW1_7952162879": "MIDDLE",
         "EUW1_7952225990": "UTILITY",
-        "EUW1_7952261803": "UTILITY"
+        "EUW1_7952261803": "UTILITY",
+        "EUW1_7952313852": "JUNGLE"
       },
       "topRole": "UTILITY",
       "trackedSince": "2025-08-11"
