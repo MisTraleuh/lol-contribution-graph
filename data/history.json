@@ -180,9 +180,10 @@
         "2026-09-03": 2,
         "2026-09-04": 1,
         "2026-09-06": 1,
-        "2026-09-07": 4
+        "2026-09-07": 4,
+        "2026-09-08": 1
       },
-      "fetchedThrough": "2026-09-08",
+      "fetchedThrough": "2026-09-09",
       "profile": {
         "iconId": 29,
         "level": 231
@@ -197,7 +198,6 @@
         "wins": 292
       },
       "roles": {
-        "EUW1_7961060556": "JUNGLE",
         "EUW1_7965362275": "JUNGLE",
         "EUW1_7965397311": "MIDDLE",
         "EUW1_7965432399": "JUNGLE",
@@ -216,9 +216,10 @@
         "EUW1_7975718788": "BOTTOM",
         "EUW1_7976624859": "MIDDLE",
         "EUW1_7976644445": "MIDDLE",
-        "EUW1_7976704300": "BOTTOM"
+        "EUW1_7976704300": "BOTTOM",
+        "EUW1_7977641851": "JUNGLE"
       },
-      "topRole": "BOTTOM",
+      "topRole": "JUNGLE",
       "trackedSince": "2025-08-11"
     }
   }
