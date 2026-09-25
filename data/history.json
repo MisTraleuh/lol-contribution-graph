@@ -201,14 +201,13 @@
       "puuid": "6YOLYtQhh8qL7IhWxBrshgLnz-yhecQpdQN8uyByz3fBaNl5v-_q_ACRONIpe2ZZf8abF1qxeeisBA",
       "rank": {
         "division": "IV",
-        "losses": 280,
-        "lp": 76,
+        "losses": 281,
+        "lp": 56,
         "queue": "solo",
         "tier": "PLATINUM",
         "wins": 293
       },
       "roles": {
-        "EUW1_7986939949": "TOP",
         "EUW1_7986958334": "TOP",
         "EUW1_7989046064": "BOTTOM",
         "EUW1_7989081755": "JUNGLE",
@@ -227,7 +226,8 @@
         "EUW1_7994077447": "BOTTOM",
         "EUW1_7994258997": "JUNGLE",
         "EUW1_7994273708": "TOP",
-        "EUW1_7994339615": "BOTTOM"
+        "EUW1_7994339615": "BOTTOM",
+        "EUW1_7994857777": "JUNGLE"
       },
       "topRole": "TOP",
       "trackedSince": "2025-08-11"
