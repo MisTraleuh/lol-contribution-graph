@@ -195,12 +195,12 @@
         "2026-09-26": 3,
         "2026-09-27": 1,
         "2026-09-28": 1,
-        "2026-09-30": 3
+        "2026-09-30": 5
       },
-      "fetchedThrough": "2026-09-30",
+      "fetchedThrough": "2026-10-01",
       "profile": {
         "iconId": 29,
-        "level": 235
+        "level": 236
       },
       "puuid": "6YOLYtQhh8qL7IhWxBrshgLnz-yhecQpdQN8uyByz3fBaNl5v-_q_ACRONIpe2ZZf8abF1qxeeisBA",
       "rank": {
@@ -212,8 +212,6 @@
         "wins": 293
       },
       "roles": {
-        "EUW1_7992213227": "TOP",
-        "EUW1_7993426034": "TOP",
         "EUW1_7993437829": "TOP",
         "EUW1_7993459053": "JUNGLE",
         "EUW1_7993709130": "TOP",
@@ -231,7 +229,9 @@
         "EUW1_7998128454": "BOTTOM",
         "EUW1_7999239819": "TOP",
         "EUW1_7999245777": "JUNGLE",
-        "EUW1_7999713253": "BOTTOM"
+        "EUW1_7999713253": "BOTTOM",
+        "EUW1_7999855068": "BOTTOM",
+        "EUW1_7999905039": "BOTTOM"
       },
       "topRole": "BOTTOM",
       "trackedSince": "2025-08-11"
