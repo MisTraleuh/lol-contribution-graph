@@ -203,7 +203,8 @@
         "2026-10-08": 2,
         "2026-10-09": 2,
         "2026-10-10": 4,
-        "2026-10-12": 1
+        "2026-10-12": 1,
+        "2026-10-13": 3
       },
       "fetchedThrough": "2026-10-13",
       "profile": {
@@ -212,17 +213,14 @@
       },
       "puuid": "6YOLYtQhh8qL7IhWxBrshgLnz-yhecQpdQN8uyByz3fBaNl5v-_q_ACRONIpe2ZZf8abF1qxeeisBA",
       "rank": {
-        "division": "IV",
-        "losses": 286,
-        "lp": 18,
+        "division": "I",
+        "losses": 288,
+        "lp": 50,
         "queue": "solo",
-        "tier": "PLATINUM",
+        "tier": "GOLD",
         "wins": 295
       },
       "roles": {
-        "EUW1_7999855068": "BOTTOM",
-        "EUW1_7999905039": "BOTTOM",
-        "EUW1_8000123205": "JUNGLE",
         "EUW1_8000150284": "JUNGLE",
         "EUW1_8000178841": "JUNGLE",
         "EUW1_8000379375": "JUNGLE",
@@ -239,7 +237,10 @@
         "EUW1_8008845274": "JUNGLE",
         "EUW1_8008871041": "JUNGLE",
         "EUW1_8008875447": "TOP",
-        "EUW1_8011697951": "BOTTOM"
+        "EUW1_8011697951": "BOTTOM",
+        "EUW1_8012603816": "JUNGLE",
+        "EUW1_8012650962": "JUNGLE",
+        "EUW1_8012774758": "JUNGLE"
       },
       "topRole": "JUNGLE",
       "trackedSince": "2025-08-11"
