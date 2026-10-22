@@ -210,7 +210,7 @@
         "2026-10-19": 10,
         "2026-10-20": 3,
         "2026-10-21": 2,
-        "2026-10-22": 1
+        "2026-10-22": 2
       },
       "fetchedThrough": "2026-10-22",
       "profile": {
@@ -219,15 +219,14 @@
       },
       "puuid": "6YOLYtQhh8qL7IhWxBrshgLnz-yhecQpdQN8uyByz3fBaNl5v-_q_ACRONIpe2ZZf8abF1qxeeisBA",
       "rank": {
-        "division": "II",
+        "division": "I",
         "losses": 301,
-        "lp": 99,
+        "lp": 37,
         "queue": "solo",
         "tier": "GOLD",
-        "wins": 307
+        "wins": 308
       },
       "roles": {
-        "EUW1_8017391221": "BOTTOM",
         "EUW1_8017399209": "BOTTOM",
         "EUW1_8017457305": "BOTTOM",
         "EUW1_8017597534": "TOP",
@@ -246,9 +245,10 @@
         "EUW1_8019870546": "BOTTOM",
         "EUW1_8020758841": "JUNGLE",
         "EUW1_8020833491": "UTILITY",
-        "EUW1_8021463322": "TOP"
+        "EUW1_8021463322": "TOP",
+        "EUW1_8021492836": "JUNGLE"
       },
-      "topRole": "TOP",
+      "topRole": "JUNGLE",
       "trackedSince": "2025-08-11"
     }
   }
